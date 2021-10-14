@@ -1,0 +1,18 @@
+.hr-info {
+    font-family:"Roboto Mono", monospace; 
+    font-size: 20px;
+
+}
+.padding-link{
+padding-top: -5px;
+}
+
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1); /* or some other value */
+    transform:scale(1);
+}
+
